@@ -24,6 +24,7 @@ public class Menu : MonoBehaviour
 
     void Quit()
     {
+        //Quit action
         Application.Quit();
     }
 }
